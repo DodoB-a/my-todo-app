@@ -31,8 +31,8 @@ function App() {
   };
 
   return (
-    <div className="app" style={{ maxWidth: "500px", margin: "50px auto", fontFamily: "sans-serif" }}>
-      <h1>My To-Do App</h1>
+    <div style={{ backgroundColor: 'aquamarine', minHeight: '100vh' }}>
+      <h1>Moja Todo App</h1>
 
       <div style={{ display: "flex", marginBottom: "20px" }}>
         <input
