@@ -31,7 +31,7 @@ function App() {
   };
 
   return (
-    <div style={{ backgroundColor: 'aquamarine', minHeight: '100vh' }}>
+    <div style={{ backgroundColor: 'lightgreen', minHeight: '100vh' }}>
       <h1>Moja Todo App</h1>
 
       <div style={{ display: "flex", marginBottom: "20px" }}>

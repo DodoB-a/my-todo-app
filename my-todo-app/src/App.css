@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: aquamarine; /* ← tu sme nastavili aquamarin */
+  background-color: rgb(117, 201, 173); /* ← tu sme nastavili aquamarin */
 }
 
 #root {
